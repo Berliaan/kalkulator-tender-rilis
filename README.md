@@ -9,7 +9,7 @@ Buka halaman **[Rilis terbaru](https://github.com/Berliaan/kalkulator-tender-ril
 - `Setup-Kalkulator-TENDER-<versi>.exe` — installer aplikasi (±110 MB)
 - `Tutorial-Lengkap-Kalkulator-TENDER.pdf` — panduan langkah demi langkah
 - `Panduan-Pengguna-Kalkulator-TENDER.pdf` — ringkasan pemakaian
-- `Contoh.Proyek.Pos.Jaga.3x4.m.rab` — contoh proyek siap buka
+- `Contoh.Proyek.-.Pos.Jaga.3x4.m.rab` — contoh proyek siap buka
 
 ## Cara memasang
 
